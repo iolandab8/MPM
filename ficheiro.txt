@@ -1,0 +1,3 @@
+Guião de GitKraken 
+Criar um ficheiro -> CTRL+P -> escolher opção Create a File.
+Escrever ficheiro.txt
